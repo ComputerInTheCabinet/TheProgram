@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DOE/Misc/TextFiles.unity
+- path: Assets/Scenes/DOE/Cyber/Cyber.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
